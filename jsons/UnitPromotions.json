@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Personnel Support",
+		"uniques": [
+			"Consumes [1] [Military Support]",
+			"[-15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 10
+	},
+	{
+		"name": "Mounted Support",
+		"uniques": [
+			"Consumes [1] [Military Support]",
+			"[+15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 11
+	},
+	{
+		"name": "Armor Support",
+		"uniques": [
+			"Consumes [5] [Military Support]",
+			"[+15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 12
+	},
+	{
+		"name": "Water Support",
+		"uniques": [
+			"Consumes [5] [Military Support]",
+			"[+15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 13
+	},
+	{
+		"name": "Air Support",
+		"uniques": [
+			"[Great General] is earned [25]% faster",
+			"[+15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 14
+	},
+	{
+		"name": "Nullifier Support",
+		"uniques": [
+			"[Great General] is earned [25]% faster",
+			"[+15]% Strength decreasing with distance from the capital"
+		],
+		"column": 0,
+		"row": 15
+	}
+]
