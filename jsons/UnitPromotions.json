@@ -29,8 +29,8 @@
 	{
 		"name":"Armor Support",
 		"uniques":[
-			"Consumes [5] [Military Support]",
-			"Consumes [5] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support]",
+			"Consumes [1] [Military Support] <when not at war>"
 		],
 		"column":21,
 		"row":12
@@ -38,8 +38,8 @@
 	{
 		"name":"Water Support",
 		"uniques":[
-			"Consumes [5] [Military Support]",
-			"Consumes [5] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support]",
+			"Consumes [1] [Military Support] <when not at war>"
 		],
 		"column":21,
 		"row":13
@@ -47,8 +47,8 @@
 	{
 		"name":"Air Support",
 		"uniques":[
-			"Consumes [5] [Military Support]",
-			"Consumes [5] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support]",
+			"Consumes [1] [Military Support] <when not at war>"
 		],
 		"column":21,
 		"row":14
@@ -56,7 +56,7 @@
 	{
 		"name":"Nullifier Support",
 		"uniques":[
-			"Consumes [15] [Military Support]",
+			"Consumes [5] [Military Support]",
 			"[+66]% Strength <when below [1] [Military Support]>"
 		],
 		"column":21,
