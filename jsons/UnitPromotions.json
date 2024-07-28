@@ -13,7 +13,8 @@
 	{
 		"name":"Personnel Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <when at war>"
+			"Consumes [1] [Military Support] <when at war>",
+			"Instantly consumes [15] [Military Support] <upon being defeated>",
 		],
 		"column":21,
 		"row":10
@@ -32,28 +33,20 @@
 		"uniques":[
 			"Consumes [1] [Military Support]",
 			"Consumes [1] [Military Support] <when not at war>",
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
 		],
 		"column":21,
 		"row":12
 	},
 	{
-		"name":"Water Support",
-		"uniques":[
-			"Consumes [1] [Military Support]",
-			"Instantly consumes [10] [Military Support] <upon being defeated>",
-		],
-		"column":21,
-		"row":13
-	},
-	{
-		"name":"Air Support",
+		"name":"Non-Land Support",
 		"uniques":[
 			"Consumes [1] [Military Support]",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
 		],
 		"column":21,
-		"row":14
+		"row":13
 	},
 	{
 		"name":"Nullifier Support",
