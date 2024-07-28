@@ -1,0 +1,21 @@
+[
+	{
+		"name":"Global uniques",
+		"uniques":[
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <after adopting [Sovereignty]>",
+			"Provides [20] [Military Support] <when below [100] [Military Support]> <after adopting [Supremacy]>",
+			"Provides [10] [Military Support] <when below [200] [Military Support]> <after adopting [Constitution]>",
+			"Provides [20] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
+			"[-66]% Strength <when below [1] [Military Support]>",
+			"[{Personnel} {non-[Mounted]} {non-[Barbarian]}] units gain the [Personnel Support] promotion",
+			"[{Mounted} {non-[Barbarian]}] units gain the [Mounted Support] promotion",
+			"[{Armor} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Armor Support] promotion",
+			"[{Water} {non-[Barbarian]}] units gain the [Water Support] promotion",
+			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]}] units gain the [Air Support] promotion",
+			"[Promotion Nullifier] units gain the [Nullifier Support] promotion",
+			"[Nuclear Weapon] units gain the [Nuclear Support] promotion",
+			"[Military] units gain the [Nuclear Support] promotion"
+		]
+	}
+]
