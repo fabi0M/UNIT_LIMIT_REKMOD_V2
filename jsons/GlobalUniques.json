@@ -1,4 +1,3 @@
-
 	{
 		"name":"Global uniques",
 		"uniques":[
@@ -15,6 +14,6 @@
 			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]}] units gain the [Air Support] promotion",
 			"[Promotion Nullifier] units gain the [Nullifier Support] promotion",
 			"[Nuclear Weapon] units gain the [Nuclear Support] promotion",
-			"[Military] units gain the [Nuclear Support] promotion"
+			"[Military] units gain the [Rally Around the Flag] promotion"
 		]
 	}
