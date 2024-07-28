@@ -7,7 +7,16 @@
 			"Provides [10] [Military Support] <when below [50] [Military Support]> <after adopting [Supremacy]>",
 			"Provides [5] [Military Support] <when below [200] [Military Support]> <after adopting [Constitution]>",
 			"Provides [20] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
+			
 			"Provides [20] [Military Support] <for [Barbarians]> <when below [500] [Military Support]>",
+			"Provides [5] [Military Support] <for [Atlas]> <when below [0] [Military Support]>",
+			"Provides [5] [Military Support] <for [Blackwarden]> <when below [50] [Military Support]>",
+			"Provides [5] [Military Support] <for [Crimson Legion]> <when below [50] [Military Support]>",
+			"Provides [5] [Military Support] <for [Deadrock Clan]> <when below [10] [Military Support]>",
+			"Provides [5] [Military Support] <for [Enclavers]> <when below [0] [Military Support]>",
+			"Provides [5] [Military Support] <for [Patriots]> <when below [10] [Military Support]>",
+
+
 			"[-10]% Strength <when below [0] [Military Support]>",
 			"[-10]% Strength <when below [-1] [Military Support]>",
 			"[-10]% Strength <when below [-2] [Military Support]>",
