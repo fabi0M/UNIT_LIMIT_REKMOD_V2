@@ -1,73 +1,73 @@
 [
 	{
-		"name": "Rally Around the Flag",
-		"uniques": [
+		"name":"Rally Around the Flag",
+		"uniques":[
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
 			"Instantly provides [5] [Military Support] <by consuming this unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
-			"Heal this unit by [10] HP <costs [10] [Military Support]>",
+			"Heal this unit by [10] HP <costs [10] [Military Support]>"
 		],
-		"column": 0,
-		"row": 9
+		"column":0,
+		"row":9
 	},
 	{
-		"name": "Personnel Support",
-		"uniques": [
+		"name":"Personnel Support",
+		"uniques":[
 			"Consumes [1] [Military Support] <when not at war>"
 		],
-		"column": 0,
-		"row": 10
+		"column":0,
+		"row":10
 	},
 	{
-		"name": "Mounted Support",
-		"uniques": [
+		"name":"Mounted Support",
+		"uniques":[
 			"Consumes [1] [Military Support] <when not at war>"
 		],
-		"column": 0,
-		"row": 11
+		"column":0,
+		"row":11
 	},
 	{
-		"name": "Armor Support",
-		"uniques": [
+		"name":"Armor Support",
+		"uniques":[
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column": 0,
-		"row": 12
+		"column":0,
+		"row":12
 	},
 	{
-		"name": "Water Support",
-		"uniques": [
+		"name":"Water Support",
+		"uniques":[
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column": 0,
-		"row": 13
+		"column":0,
+		"row":13
 	},
 	{
-		"name": "Air Support",
-		"uniques": [
+		"name":"Air Support",
+		"uniques":[
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column": 0,
-		"row": 14
+		"column":0,
+		"row":14
 	},
 	{
-		"name": "Nullifier Support",
-		"uniques": [
+		"name":"Nullifier Support",
+		"uniques":[
 			"Consumes [15] [Military Support]",
 			"[+66]% Strength <when below [1] [Military Support]>"
 		],
-		"column": 0,
-		"row": 15
+		"column":0,
+		"row":15
 	},
 	{
-		"name": "Nuclear Support",
-		"uniques": [
-			"Consumes [20] [Military Support]",
+		"name":"Nuclear Support",
+		"uniques":[
+			"Consumes [20] [Military Support]"
 		],
-		"column": 0,
-		"row": 16
+		"column":0,
+		"row":16
 	}
 ]
