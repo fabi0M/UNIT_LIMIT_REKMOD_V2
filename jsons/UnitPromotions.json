@@ -13,7 +13,7 @@
 	{
 		"name":"Personnel Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <when at war>",
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles>",
 			"Instantly consumes [15] [Military Support] <upon being defeated>",
 		],
 		"column":21,
@@ -23,7 +23,7 @@
 		"name":"Mounted Support",
 		"uniques":[
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
-			"Consumes [1] [Military Support] <when at war>"
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles>"
 		],
 		"column":21,
 		"row":11
@@ -31,8 +31,7 @@
 	{
 		"name":"Armor Support",
 		"uniques":[
-			"Consumes [1] [Military Support]",
-			"Consumes [1] [Military Support] <when not at war>",
+			"Consumes [1] [Military Support] <when not at war> <in [non-[City center]] tiles>",
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
 		],
@@ -42,8 +41,7 @@
 	{
 		"name":"Non-Land Support",
 		"uniques":[
-			"Consumes [1] [Military Support]",
-			"Instantly consumes [5] [Military Support] <upon being defeated>",
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles>"
 		],
 		"column":21,
 		"row":13
@@ -51,7 +49,6 @@
 	{
 		"name":"Nullifier Support",
 		"uniques":[
-			"Consumes [5] [Military Support]",
 			"[+10]% Strength <when below [0] [Military Support]>",
 			"[+10]% Strength <when below [-1] [Military Support]>",
 			"[+10]% Strength <when below [-2] [Military Support]>",
@@ -70,7 +67,7 @@
 		"name":"Nuclear Support",
 		"uniques":[
 			"Instantly consumes [20] [Military Support] <when attacking>",
-			"Instantly consumes [25] [Military Support] <upon being defeated>"
+			"Consumes [10] [Military Support]"
 		],
 		"column":21,
 		"row":16
