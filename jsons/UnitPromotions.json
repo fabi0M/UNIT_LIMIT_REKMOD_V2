@@ -59,7 +59,16 @@
 		"name":"Nullifier Support",
 		"uniques":[
 			"Consumes [5] [Military Support]",
-			"[+66]% Strength <when below [1] [Military Support]>"
+			"[+10]% Strength <when below [0] [Military Support]>",
+			"[+10]% Strength <when below [-1] [Military Support]>",
+			"[+10]% Strength <when below [-2] [Military Support]>",
+			"[+10]% Strength <when below [-3] [Military Support]>",
+			"[+10]% Strength <when below [-4] [Military Support]>",
+			"[+10]% Strength <when below [-5] [Military Support]>",
+			"[+10]% Strength <when below [-6] [Military Support]>",
+			"[+10]% Strength <when below [-7] [Military Support]>",
+			"[+10]% Strength <when below [-8] [Military Support]>",
+			"[+10]% Strength <when below [-9] [Military Support]>",
 		],
 		"column":21,
 		"row":15
