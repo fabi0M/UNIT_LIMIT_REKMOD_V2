@@ -2,9 +2,9 @@
 	{
 		"name":"Global Uniques",
 		"uniques":[
-			"Instantly provides [1] [Military Support] <when below [100] [Military Support]> <when at war>",
-			"Instantly consumes [1] [Military Support] <when above [0] [Military Support]> <when above [0] [Happiness]> <when not at war>",
-			"Instantly consumes [1] [Military Support] <when below [1] [Happiness]> <when not at war>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war> <after adopting [Sovereignty]>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war> <after adopting [Supremacy]>",
 			"[-66]% Strength <when below [1] [Military Support]>"
 		]
 	}
