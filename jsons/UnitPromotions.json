@@ -5,7 +5,7 @@
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
 			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
-			"Heal this unit by [10] HP <in [your] tiles> <costs [10] [Military Support]>"
+			"Heal this unit by [10] HP <in [your] tiles> <costs [25] [Military Support]>"
 		],
 		"column":21,
 		"row":9
