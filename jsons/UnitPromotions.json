@@ -3,8 +3,9 @@
 		"name": "Rally Around the Flag",
 		"uniques": [
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
+			"Instantly provides [5] [Military Support] <by consuming this unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
-			"Heal this unit by [10] HP <costs [10] [Military Support]>"
+			"Heal this unit by [10] HP <costs [10] [Military Support]>",
 		],
 		"column": 0,
 		"row": 9
