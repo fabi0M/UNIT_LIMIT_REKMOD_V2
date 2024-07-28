@@ -7,7 +7,7 @@
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
 			"Heal this unit by [10] HP <costs [10] [Military Support]>"
 		],
-		"column":0,
+		"column":21,
 		"row":9
 	},
 	{
@@ -15,7 +15,7 @@
 		"uniques":[
 			"Consumes [1] [Military Support] <when not at war>"
 		],
-		"column":0,
+		"column":21,
 		"row":10
 	},
 	{
@@ -23,7 +23,7 @@
 		"uniques":[
 			"Consumes [1] [Military Support] <when not at war>"
 		],
-		"column":0,
+		"column":21,
 		"row":11
 	},
 	{
@@ -32,7 +32,7 @@
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column":0,
+		"column":21,
 		"row":12
 	},
 	{
@@ -41,7 +41,7 @@
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column":0,
+		"column":21,
 		"row":13
 	},
 	{
@@ -50,7 +50,7 @@
 			"Consumes [5] [Military Support]",
 			"Consumes [5] [Military Support] <when not at war>"
 		],
-		"column":0,
+		"column":21,
 		"row":14
 	},
 	{
@@ -59,7 +59,7 @@
 			"Consumes [15] [Military Support]",
 			"[+66]% Strength <when below [1] [Military Support]>"
 		],
-		"column":0,
+		"column":21,
 		"row":15
 	},
 	{
@@ -67,7 +67,7 @@
 		"uniques":[
 			"Consumes [20] [Military Support]"
 		],
-		"column":0,
+		"column":21,
 		"row":16
 	}
 ]
