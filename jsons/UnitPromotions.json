@@ -13,7 +13,7 @@
 	{
 		"name":"Personnel Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support] <when at war>"
 		],
 		"column":21,
 		"row":10
@@ -21,7 +21,7 @@
 	{
 		"name":"Mounted Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support] <when at war>"
 		],
 		"column":21,
 		"row":11
@@ -38,8 +38,7 @@
 	{
 		"name":"Water Support",
 		"uniques":[
-			"Consumes [1] [Military Support]",
-			"Consumes [1] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support]"
 		],
 		"column":21,
 		"row":13
@@ -47,8 +46,7 @@
 	{
 		"name":"Air Support",
 		"uniques":[
-			"Consumes [1] [Military Support]",
-			"Consumes [1] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support]"
 		],
 		"column":21,
 		"row":14
