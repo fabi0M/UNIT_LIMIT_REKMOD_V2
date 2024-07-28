@@ -3,7 +3,7 @@
 		"name":"Rally Around the Flag",
 		"uniques":[
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
-			"Instantly provides [5] [Military Support] <by consuming this unit>",
+			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit>",
 			"Instantly consumes [5] [Military Support] <upon being defeated>",
 			"Heal this unit by [10] HP <costs [10] [Military Support]>"
 		],
@@ -21,6 +21,7 @@
 	{
 		"name":"Mounted Support",
 		"uniques":[
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
 			"Consumes [1] [Military Support] <when at war>"
 		],
 		"column":21,
@@ -30,7 +31,8 @@
 		"name":"Armor Support",
 		"uniques":[
 			"Consumes [1] [Military Support]",
-			"Consumes [1] [Military Support] <when not at war>"
+			"Consumes [1] [Military Support] <when not at war>",
+			"Instantly consumes [5] [Military Support] <upon being defeated>",
 		],
 		"column":21,
 		"row":12
@@ -38,7 +40,8 @@
 	{
 		"name":"Water Support",
 		"uniques":[
-			"Consumes [1] [Military Support]"
+			"Consumes [1] [Military Support]",
+			"Instantly consumes [10] [Military Support] <upon being defeated>",
 		],
 		"column":21,
 		"row":13
@@ -46,7 +49,8 @@
 	{
 		"name":"Air Support",
 		"uniques":[
-			"Consumes [1] [Military Support]"
+			"Consumes [1] [Military Support]",
+			"Instantly consumes [5] [Military Support] <upon being defeated>",
 		],
 		"column":21,
 		"row":14
@@ -63,7 +67,8 @@
 	{
 		"name":"Nuclear Support",
 		"uniques":[
-			"Consumes [20] [Military Support]"
+			"Instantly consumes [20] [Military Support] <when attacking>",
+			"Instantly consumes [25] [Military Support] <upon being defeated>"
 		],
 		"column":21,
 		"row":16
