@@ -7,7 +7,7 @@
 			"Provides [10] [Military Support] <when below [50] [Military Support]> <after adopting [Supremacy]>",
 			"Provides [5] [Military Support] <when below [200] [Military Support]> <after adopting [Constitution]>",
 			"Provides [20] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
-			"Provides [20] [resource] <for [civFilter]> <when below [500] [Military Support]>",
+			"Provides [20] [resource] <for [Barbarians]> <when below [500] [Military Support]>",
 			"[-66]% Strength <when below [0] [Military Support]>",
 			"[{Personnel} {non-[Mounted]} {non-[Barbarian]}] units gain the [Personnel Support] promotion",
 			"[{Mounted} {non-[Barbarian]}] units gain the [Mounted Support] promotion",
