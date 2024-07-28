@@ -1,8 +1,18 @@
 [
 	{
+		"name": "Rally Around the Flag",
+		"uniques": [
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
+			"Instantly consumes [5] [Military Support] <upon being defeated>",
+			"Heal this unit by [10] HP <costs [10] [Military Support]>"
+		],
+		"column": 0,
+		"row": 9
+	},
+	{
 		"name": "Personnel Support",
 		"uniques": [
-			"Consumes [1] [Military Support]"
+			"Consumes [1] [Military Support] <when not at war>"
 		],
 		"column": 0,
 		"row": 10
@@ -10,7 +20,7 @@
 	{
 		"name": "Mounted Support",
 		"uniques": [
-			"Consumes [1] [Military Support]"
+			"Consumes [1] [Military Support] <when not at war>"
 		],
 		"column": 0,
 		"row": 11
@@ -18,7 +28,8 @@
 	{
 		"name": "Armor Support",
 		"uniques": [
-			"Consumes [5] [Military Support]"
+			"Consumes [5] [Military Support]",
+			"Consumes [5] [Military Support] <when not at war>"
 		],
 		"column": 0,
 		"row": 12
@@ -27,6 +38,7 @@
 		"name": "Water Support",
 		"uniques": [
 			"Consumes [5] [Military Support]",
+			"Consumes [5] [Military Support] <when not at war>"
 		],
 		"column": 0,
 		"row": 13
@@ -35,6 +47,7 @@
 		"name": "Air Support",
 		"uniques": [
 			"Consumes [5] [Military Support]",
+			"Consumes [5] [Military Support] <when not at war>"
 		],
 		"column": 0,
 		"row": 14
