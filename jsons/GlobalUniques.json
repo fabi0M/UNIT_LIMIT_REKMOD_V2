@@ -22,8 +22,8 @@
 			"[{Personnel} {non-[Mounted]} {non-[Barbarian]}] units gain the [Personnel Support] promotion",
 			"[{Mounted} {non-[Barbarian]}] units gain the [Mounted Support] promotion",
 			"[{Armor} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Armor Support] promotion",
-			"[{Water} {non-[Barbarian]}] units gain the [Water Support] promotion",
-			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]}] units gain the [Air Support] promotion",
+			"[{Water} {non-[Barbarian]}] units gain the [Non-Land Support] promotion",
+			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]}] units gain the [Non-Land Support] promotion",
 			"[Promotion Nullifier] units gain the [Nullifier Support] promotion",
 			"[Nuclear Weapon] units gain the [Nuclear Support] promotion",
 			"[Military] units gain the [Rally Around the Flag] promotion"
