@@ -1,15 +1,17 @@
 	{
 		"name":"Global uniques",
 		"uniques":[
-			"Provides [20] [Military Support] <when below [100] [Military Support]>",
-			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war>",
-			"Provides [10] [Military Support] <when below [0] [Military Support]> <when not at war>",
-			"Provides [10] [Military Support] <when below [100] [Military Support]> <when at war> <after adopting [Sovereignty]>",
-			"Provides [10] [Military Support] <when below [50] [Military Support]> <after adopting [Supremacy]>",
-			"Provides [5] [Military Support] <when below [0] [Military Support]> <when not at war> <after adopting [Constitution]>",
-			"Provides [20] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
+			"[-1] Unit Supply per [4] population [in all cities]",
+			"[-1] Unit Supply per city",
 			
-			"Provides [20] [Military Support] <for [Barbarians]> <when below [500] [Military Support]>",
+			"Provides [20] [Military Support] <when below [100] [Military Support]>",
+			"Provides [20] [Military Support] <when below [100] [Military Support]> <when at war>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <after adopting [Sovereignty]>",
+			"Provides [5] [Military Support] <when below [0] [Military Support]> <when not at war>",
+			"Provides [5] [Military Support] <when below [200] [Military Support]> <when not at war> <after adopting [Constitution]>",
+			
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
+			"Provides [20] [Military Support] <when below [500] [Military Support]> <for [Barbarians]>",
 
 			"[-10]% Strength <when below [0] [Military Support]>",
 			"[-10]% Strength <when below [-1] [Military Support]>",
@@ -22,14 +24,16 @@
 			"[-10]% Strength <when below [-8] [Military Support]>",
 			"[-10]% Strength <when below [-9] [Military Support]>",
 			"Rebel units may spawn <when below [-10] [Military Support]>",
+			"[+100]% Unhappiness from [Population] [in all cities] <when below [-10] [Military Support]>",
+			
 			"[{Scrapper} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
 			"[{Shooter} {non-[Mounted]} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Infantry Support] promotion",
 			"[{Mounted} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Mounted Support] promotion",
 			"[{Armor} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Armor Support] promotion",
 			"[{Helicopter} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
 			"[{Siege} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
-			"[{Water} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [Non-Land Support] promotion",
-			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]} {non-[Promotion Nullifier]}] units gain the [Non-Land Support] promotion",
+			"[{Water} {non-[Barbarian]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
+			"[{Air} {non-[Missle]} {non-[Nuclear Weapon]} {non-[Promotion Nullifier]}] units gain the [War Machine Support] promotion",
 			"[Promotion Nullifier] units gain the [Nullifier Support] promotion",
 			"[Nuclear Weapon] units gain the [Nuclear Support] promotion",
 			"[{Military} {non-[Promotion Nullifier]}] units gain the [Rally Around the Flag] promotion"
