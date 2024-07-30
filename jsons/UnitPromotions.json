@@ -5,10 +5,12 @@
 			"Comment [Consumes 1 Military Support when outside your cities]",
 			"Comment [Lose 5 Military Support when defeated]",
 			"Comment [Gain 5 Military Support when defeating an enemy unit]",
+			"Comment [Gain 50 additional Military Support when conquering an enemy city after adopting Supremacy]",
 			"Comment [Can recover 25 HP when in your tiles at the cost of 25 Military Support]",
 			"Comment [Can disband this unit to gain 5 Military Support]",
 			
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
+			"Instantly provides [50] [Military Support] <upon conquering a city> <after adopting [Supremacy]> <hidden from users>",
 			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 			"Heal this unit by [25] HP <in [your] tiles> <costs [25] [Military Support]> <for all movement> <hidden from users>",
