@@ -2,7 +2,7 @@
 	{
 		"name":"Rally Around the Flag",
 		"uniques":[
-			"Comment [Consumes 1 Military Support when outside your tiles]",
+			"Comment [Consumes 1 Military Support when outside your cities]",
 			"Comment [Lose 5 Military Support when defeated]",
 			"Comment [Gain 5 Military Support when defeating an enemy unit]",
 			"Comment [Can recover 25 HP when in your tiles at the cost of 25 Military Support]",
@@ -12,7 +12,7 @@
 			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 			"Heal this unit by [25] HP <in [your] tiles> <costs [25] [Military Support]> <for all movement> <hidden from users>",
-			"Consumes [1] [Military Support] <in [non-[your]] tiles> <hidden from users>",			
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"		
 		],
 		"column":21,
 		"row":9
@@ -30,10 +30,7 @@
 		"name":"Mounted Support",
 		"uniques":[
 			"Comment [Gain an additional 5 Military Support upon defeating a Military unit]",
-			"Comment [Consumes 1 Military Support when not garrisoned]",
-			
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
-			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"
 		],
 		"column":21,
 		"row":11
@@ -43,9 +40,9 @@
 		"uniques":[
 			"Comment [Gain an additional 5 Military Support upon defeating a Military unit]",
 			"Comment [Lose an additional 5 Military Support when defeated]",
-			"Comment [Consumes 1 additional Military Support when outside your territory]",
 			
-			"Consumes [1] [Military Support] <when not at war> <in [non-[City center]] tiles> <hidden from users>",
+			"Consumes [1] [Military Support]",
+			
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 		],
@@ -53,9 +50,9 @@
 		"row":12
 	},
 	{
-		"name":"Non-Land Support",
+		"name":"War Machine Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"
+			"Consumes [1] [Military Support]"
 		],
 		"column":21,
 		"row":13
@@ -82,6 +79,8 @@
 		"name":"Nuclear Support",
 		"uniques":[
 			"Comment [Costs 20 Military Support to use]",
+
+			"Consumes [1] [Military Support]"
 			
 			"Instantly consumes [20] [Military Support] <when attacking> <hidden from users>",
 			"Cannot attack <when below [20] [Military Support]> <hidden from users>"
