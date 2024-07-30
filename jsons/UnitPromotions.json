@@ -2,19 +2,26 @@
 	{
 		"name":"Rally Around the Flag",
 		"uniques":[
-			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
-			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit>",
-			"Instantly consumes [5] [Military Support] <upon being defeated>",
-			"Heal this unit by [10] HP <in [your] tiles> <costs [25] [Military Support]>"
+			"Comment [Consumes 1 Military Support when outside your tiles]",
+			"Comment [Lose 5 Military Support when defeated]",
+			"Comment [Gain 5 Military Support when defeating an enemy unit]",
+			"Comment [Can recover 25 HP when in your tiles at the cost of 25 Military Support]",
+			"Comment [Can disband this unit to gain 5 Military Support]",
+			
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
+			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
+			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
+			"Heal this unit by [25] HP <in [your] tiles> <costs [25] [Military Support]> <for all movement> <hidden from users>",
+			"Consumes [1] [Military Support] <in [non-[your]] tiles> <hidden from users>",			
 		],
 		"column":21,
 		"row":9
 	},
 	{
-		"name":"Personnel Support",
+		"name":"Infantry Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <in [non-[City center]] tiles>",
-			"Instantly consumes [15] [Military Support] <upon being defeated>",
+			"Comment [Lose an additional 5 Military Support when defeated]",
+			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 		],
 		"column":21,
 		"row":10
@@ -22,8 +29,11 @@
 	{
 		"name":"Mounted Support",
 		"uniques":[
-			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
-			"Consumes [1] [Military Support] <in [non-[City center]] tiles>"
+			"Comment [Gain an additional 5 Military Support upon defeating a Military unit]",
+			"Comment [Consumes 1 Military Support when not garrisoned]",
+			
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"
 		],
 		"column":21,
 		"row":11
@@ -31,9 +41,13 @@
 	{
 		"name":"Armor Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <when not at war> <in [non-[City center]] tiles>",
-			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit>",
-			"Instantly consumes [5] [Military Support] <upon being defeated>",
+			"Comment [Gain an additional 5 Military Support upon defeating a Military unit]",
+			"Comment [Lose an additional 5 Military Support when defeated]",
+			"Comment [Consumes 1 additional Military Support when outside your territory]",
+			
+			"Consumes [1] [Military Support] <when not at war> <in [non-[City center]] tiles> <hidden from users>",
+			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
+			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 		],
 		"column":21,
 		"row":12
@@ -41,7 +55,7 @@
 	{
 		"name":"Non-Land Support",
 		"uniques":[
-			"Consumes [1] [Military Support] <in [non-[City center]] tiles>"
+			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"
 		],
 		"column":21,
 		"row":13
@@ -49,16 +63,17 @@
 	{
 		"name":"Nullifier Support",
 		"uniques":[
-			"[+10]% Strength <when below [0] [Military Support]>",
-			"[+10]% Strength <when below [-1] [Military Support]>",
-			"[+10]% Strength <when below [-2] [Military Support]>",
-			"[+10]% Strength <when below [-3] [Military Support]>",
-			"[+10]% Strength <when below [-4] [Military Support]>",
-			"[+10]% Strength <when below [-5] [Military Support]>",
-			"[+10]% Strength <when below [-6] [Military Support]>",
-			"[+10]% Strength <when below [-7] [Military Support]>",
-			"[+10]% Strength <when below [-8] [Military Support]>",
-			"[+10]% Strength <when below [-9] [Military Support]>",
+			"Comment [This unit nullifies all Military Support debuffs on this unit]",
+			"[+10]% Strength <when below [0] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-1] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-2] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-3] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-4] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-5] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-6] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-7] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-8] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [-9] [Military Support]> <hidden from users>",
 		],
 		"column":21,
 		"row":15
@@ -66,8 +81,10 @@
 	{
 		"name":"Nuclear Support",
 		"uniques":[
-			"Instantly consumes [20] [Military Support] <when attacking>",
-			"Consumes [10] [Military Support]"
+			"Comment [Costs 20 Military Support to use]",
+			
+			"Instantly consumes [20] [Military Support] <when attacking> <hidden from users>",
+			"Cannot attack <when below [20] [Military Support]> <hidden from users>"
 		],
 		"column":21,
 		"row":16
