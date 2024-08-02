@@ -4,11 +4,11 @@
 			"[-1] Unit Supply per [4] population [in all cities]",
 			"[-1] Unit Supply per city",
 			
-			"Provides [20] [Military Support] <when below [100] [Military Support]>",
-			"Provides [20] [Military Support] <when below [100] [Military Support]> <when at war>",
-			"Provides [10] [Military Support] <when below [100] [Military Support]> <after adopting [Sovereignty]>",
+			"Provides [10] [Military Support] <when below [20] [Military Support]>",
+			"Provides [10] [Military Support] <when below [20] [Military Support]> <when at war>",
+			"Provides [10] [Military Support] <when below [20] [Military Support]> <after adopting [Sovereignty]>",
 			"Provides [5] [Military Support] <when below [0] [Military Support]> <when not at war>",
-			"Provides [5] [Military Support] <when below [200] [Military Support]> <when not at war> <after adopting [Constitution]>",
+			"Provides [5] [Military Support] <when below [100] [Military Support]> <when not at war> <after adopting [Constitution]>",
 			
 			"Provides [10] [Military Support] <when below [100] [Military Support]> <for [City-states]>",
 			"Provides [20] [Military Support] <when below [500] [Military Support]> <for [Barbarians]>",
