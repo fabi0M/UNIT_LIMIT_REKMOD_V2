@@ -13,7 +13,7 @@
 			"Instantly provides [50] [Military Support] <upon conquering a city> <after adopting [Supremacy]> <hidden from users>",
 			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
-			"Instantly provides [25] HP <in [your] tiles> <costs [5] [Military Support]>",
+			"This Unit Heal [25] HP <in [your] tiles> <costs [5] [Military Support]>",
 			"Consumes [1] [Military Support] <in [non-[City center]] tiles> <hidden from users>"		
 		],
 		"column":21,
