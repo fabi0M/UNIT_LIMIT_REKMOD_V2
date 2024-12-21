@@ -20,7 +20,7 @@
 			"[-10]% Strength <when below [-6] [Military Support]>",
 			"[-10]% Strength <when below [-7] [Military Support]>",
 			"[-10]% Strength <when below [-8] [Military Support]>",
-			"[-10]% Strength <when below [-9] [Military Support]>",
+			"[10]% Strength <when above [9] [Military Support]>",
 			"Rebel units may spawn <when below [-10] [Military Support]>",
 			"[+100]% Unhappiness from [Population] [in all cities] <when below [-10] [Military Support]>",
 			
