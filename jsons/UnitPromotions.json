@@ -14,7 +14,7 @@
 			"Instantly provides [5] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 			"[This Unit] heals [50] HP <in [your] tiles> <costs [5] [Military Support]> <for all movement> <hidden from users>",
-			"[This Unit] earn [+10]% Strength <in [your] tiles> <costs [5] [Military Support]> <for all movement> <hidden from users>",
+			"[+10]% Strength <in [your] tiles> <costs [5] [Military Support]> <for all movement> <hidden from users>",
 			"Consumes [1] [Military Support] <in [non-[City center] ] tiles> <hidden from users>",
 		],
 		"column":21,
