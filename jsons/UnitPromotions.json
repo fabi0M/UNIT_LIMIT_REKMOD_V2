@@ -10,7 +10,7 @@
 			"Comment [Can disband this unit to gain 5 Military Support]",
 			
 			"Instantly provides [5] [Military Support] <upon defeating a [Military] unit> <hidden from users>",
-			"Instantly provides [50] [Military Support] <upon conquering a city> <after adopting [Supremacy]> <hidden from users>",
+			"Instantly provides [50] [Military Support] <upon conquering a city> <after adopting [Autocracy]> <hidden from users>",
 			"Instantly provides [10] [Military Support] <in [your] tiles> <when above [90] HP> <by consuming this unit> <hidden from users>",
 			"Instantly consumes [5] [Military Support] <upon being defeated> <hidden from users>",
 			"[This Unit] heals [30] HP <costs [30] [Military Support]> <for all movement> <hidden from users>",
