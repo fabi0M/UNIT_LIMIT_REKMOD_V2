@@ -8,7 +8,7 @@
 			"Provides [10] [Military Support] <when below [20] [Military Support]> <when at war>",
 			"Provides [10] [Military Support] <when below [20] [Military Support]> <after adopting [Sovereignty]>",
 			"Provides [5] [Military Support] <when below [50] [Military Support]> <when not at war>",
-			"Provides [3] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [ORDER]>",
+			"Provides [3] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [Order]>",
 		
 
 			"[-10]% Strength <when below [10] [Military Support]>",
