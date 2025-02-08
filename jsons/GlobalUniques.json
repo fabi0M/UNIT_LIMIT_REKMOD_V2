@@ -4,7 +4,7 @@
 			"[-10] Unit Supply per [1] population [in all cities]",
 			"[+1] Unit Supply per [15] population [in all cities]",
 			"[-1] Unit Supply per city",
-			"[-2] unitSupplyBase",
+			"[-2] Unit SupplyBase",
 			
 			"Provides [10] [Military Support] <when below [20] [Military Support]>",
 			"Provides [10] [Military Support] <when below [20] [Military Support]> <when at war>",
