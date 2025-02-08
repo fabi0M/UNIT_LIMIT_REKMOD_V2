@@ -2,7 +2,7 @@
 		"name":"Global uniques",
 		"uniques":[
 			"[-10] Unit Supply per [1] population [in all cities]",
-			"[+1] Unit Supply per [15] population [in all cities]",
+			"[+1] Unit Supply per [5] population [in all cities]",
 			"[-1] Unit Supply per city",
 			"[-2] Unit Supply",
 			
